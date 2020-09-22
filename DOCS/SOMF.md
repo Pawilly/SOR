@@ -1,4 +1,4 @@
-# LOS 5 SISTEMAS OPERATIVOS MÁS USADOS  
+# LOS 5 SO MÁS USADOS  
 
 ## Windows
 ![Windows](https://www.hazhistoria.net/sites/default/files/field/image/windows-10-logo.png)
