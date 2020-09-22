@@ -32,5 +32,6 @@ proyecto GNU.
 * Linux es gratuito y libre. El sistema Unix original no lo es, aunque algunas de sus distribuciones lo son.
 * Linux es un clon del sistema Unix original, aunque no contiene su código.
 * Linux es solo el núcleo (kernel) del sistema, mientras que Unix es un sistema operativo completo.
-* Linux fue desarrollado para ser ejecutado en PCs, mientras que Unix fue desarrollo principalmente para grandes estaciones de trabajo y servidores. Actualmente, * Linux admite más plataformas que Unix.
+* Linux fue desarrollado para ser ejecutado en PCs, mientras que Unix fue desarrollo principalmente para grandes estaciones de trabajo y servidores.
+  Actualmente, Linux admite más plataformas que Unix.
 * Linux soporta más tipos de sistemas de archivos que Unix.
