@@ -6,3 +6,6 @@ compañías) la libertad de usar, estudiar, compartir (copiar) y modificar el so
 es libre, y protegerlo (mediante una práctica conocida como copyleft) de intentos de apropiación que restrinjan esas libertades a nuevos usuarios cada vez que la
 obra es distribuida, modificada o ampliada. Esta licencia fue creada originalmente por Richard Stallman fundador de la Free Software Foundation (FSF) para el
 proyecto GNU.
+ # Diferencia entre software libre y comercial.
+ * La principal diferencia es que el software libre esta dado para todos los usuarios gratuitamente, también los usuarios tienen la libertad de ejecutar, copiar, distribuir, estudiar, modificar y mejorar el software. En cambio con el software comercial se tiene que pagar por obtener el servicio, y no suele tener tanta libertad de hacer tantas cosas como en el software libre.
+
