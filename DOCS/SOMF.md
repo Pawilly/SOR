@@ -1,7 +1,7 @@
 # LOS 5 SISTEMAS OPERATIVOS MÁS USADOS  
 
 ## Windows
-* Windows es el nombre de una familia de distribuciones de software para PC, teléfonos inteligentes, servidores y sistemas empotrados, desarrollados y vendidos por Microsoft y disponibles para múltiples arquitecturas, tales como x86, x86-64 y ARM.
+* Windows es el nombre de una familia de distribuciones de software para PC, teléfonos inteligentes, servidores y sistemas empotrados, desarrollados y vendidos por Microsoft y disponibles para múltiples arquitecturas, tales como x86, x86-64 y ARM.  
 ![Window](https://www.hazhistoria.net/sites/default/files/field/image/windows-10-logo.png)
 ## Mac OS
 * 
