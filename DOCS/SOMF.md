@@ -18,10 +18,11 @@
 ## iOS
 * iOS es un sistema operativo móvil de la multinacional Apple Inc. Originalmente desarrollado para el iPhone (iPhone OS), después se ha usado en dispositivos como el iPod touch y el iPad. Apple por su parte no permite la instalación de iOS en hardware de terceros.
   
-La última versión del sistema operativo es iOS 14 (lanzada en septiembre de 2020) que sustituye a iOS 13 con el objetivo principal de mejorar la experiencia del usuario.
+* La última versión del sistema operativo es iOS 14 (lanzada en septiembre de 2020) que sustituye a iOS 13 con el objetivo principal de mejorar la experiencia del usuario.
   
 ![iOS](https://upload.wikimedia.org/wikipedia/commons/4/45/IOS_14_Logo.png)
   
 ## Android
-* 
+* Android es un sistema operativo móvil desarrollado por Google, basado en núcleo Linux y otros software de código abierto. Fue diseñado para dispositivos móviles con pantalla táctil, como teléfonos inteligentes, tabletas, relojes inteligentes (Wear OS), automóviles (Android Auto) y televisores (Android TV).  
+  
 ![Android](https://i.blogs.es/2b63f8/androidze/450_1000.jpg)
