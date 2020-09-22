@@ -16,7 +16,10 @@
 ![Linux](https://www.silicon.es/wp-content/uploads/2016/10/linux-logo-2-684x500.png)
   
 ## iOS
-* 
+* iOS es un sistema operativo móvil de la multinacional Apple Inc. Originalmente desarrollado para el iPhone (iPhone OS), después se ha usado en dispositivos como el iPod touch y el iPad. Apple por su parte no permite la instalación de iOS en hardware de terceros.
+  
+La última versión del sistema operativo es iOS 14 (lanzada en septiembre de 2020) que sustituye a iOS 13 con el objetivo principal de mejorar la experiencia del usuario.
+  
 ![iOS](https://upload.wikimedia.org/wikipedia/commons/4/45/IOS_14_Logo.png)
   
 ## Android
