@@ -14,19 +14,19 @@ proyecto GNU.
 * Una distribución GNU/Linux (coloquialmente llamada distro) es una distribución de software basada en el núcleo Linux que incluye determinados paquetes de software para satisfacer las necesidades de un grupo específico de usuarios, dando así origen a ediciones domésticas, empresariales y para servidores.  
   
 **Las mas usuales són:**
- 1. **Debian 10.5**  
+ 1. **Debian 10.5**
    
 Es una de las distribuciones de Linux más antigua y popular al mismo tiempo. Para la gran mayoría se trata de la distro más estable, aunque hay otros aspectos a destacar como son los repositorios, gestores de paquetes y la comunidad detrás de Debian.
- 2. **Ubuntu 20.04**  
+ 2. **Ubuntu 20.04**
    
 Es otra de las más elegidas cuando se trata de instalar una distribución de Linux en cualquier equipo. Y es que su sencillo proceso de instalación hace que podamos tener Ubuntu en nuestro equipo en un abrir y cerrar de ojos. Cuenta con una tienda de aplicaciones que permite la instalación y actualización de software desde la propia interfaz gráfica, lo que simplifica su uso. La comunidad detrás de Ubuntu es otro de los puntos a favor de esta distribución.
- 3. **Linux Mint 20**  
+ 3. **Linux Mint 20**
    
 Es otra de las distribuciones de Linux más populares. Se basa en Ubuntu pero hay grandes diferencias entre ambas distros. Mint es mucho más rápida, ligera y sencilla de manejar, sobre todo para usuarios poco experimentados en entorno Linux. Nada más instalarla, encontraremos una serie de aplicaciones con las que podremos comenzar a manejarnos fácilmente desde el primer momento.
- 4. **MX Linux 19.2**  
+ 4. **MX Linux 19.2**
    
 Es una de las distros preferidas por muchos usuarios puesto que mezcla un escritorio elegante y muy manejable con una configuración simple. Además, MX Linux es estable y ofrece un gran rendimiento con un entorno de escritorio XFCE que incluso para los usuarios noveles resulta fácil de configurar y personalizar.
- 5. **Mageia 7.1**  
+ 5. **Mageia 7.1**
    
 Se trata de una distribución de Linux de código abierto que nació como un fork de Mandriva Linux y que al igual que su antecesora, KDE es su entorno principal y más utilizado aunque los usuarios finales puede elegir entre otros como GNOME, XFCE, Cinnamon, LXDE, etc. Aunque cuenta con su propio instalador, es bastante sencillo y fácil de manejar por cualquier persona.
    
