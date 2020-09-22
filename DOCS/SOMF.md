@@ -2,3 +2,5 @@
 ## Windows
 ## Mac OS
 ## Linux Ubuntu
+## iOS
+## Android
