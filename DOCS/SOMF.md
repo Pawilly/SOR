@@ -11,7 +11,8 @@
 ![Mac OS](https://images.vexels.com/media/users/3/140714/isolated/preview/1e292500381db7819a5f04534d2152d5-logo-de-mac-os-by-vexels.png)
   
 ## Linux Ubuntu
-* 
+* GNU/Linux es la denominación técnica y generalizada que reciben una serie de sistemas operativos de tipo Unix, que también suelen ser de código abierto, multiplataforma, multiusuario y multitarea. Estos sistemas operativos están formados mediante la combinación de varios proyectos, entre los cuales destaca el entorno GNU.  
+  
 ![Linux](https://www.silicon.es/wp-content/uploads/2016/10/linux-logo-2-684x500.png)
   
 ## iOS
