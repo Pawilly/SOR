@@ -26,7 +26,7 @@ Las novedades más destacables en la nueva entrega de Ubuntu són: las mejoras d
   
  3. **Linux Mint 20**
    
-Es otra de las distribuciones de Linux más populares. Se basa en Ubuntu pero hay grandes diferencias entre ambas distros. Mint es mucho más rápida, ligera y sencilla de manejar, sobre todo para usuarios poco experimentados en entorno Linux. Nada más instalarla, encontraremos una serie de aplicaciones con las que podremos comenzar a manejarnos fácilmente desde el primer momento.  
+Aprovechamos para hablar de las novedades de Linux Mint 20, entre las que destacan la mejora del rendimiento del gestor de archivos Nemo, una nueva opción en las preferencias del escritorio para fijar la tasa de refresco de la pantalla, escalado fraccional para pantallas HiDPI, un nuevo acceso a las disposiciones de teclado y la posibilidad de ejecutar comandos personalizados para modificar el salvapantallas.  
   
  4. **MX Linux 19.2**
    
