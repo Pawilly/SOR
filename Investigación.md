@@ -35,7 +35,7 @@ Es una de las distros preferidas por muchos usuarios puesto que mezcla un escrit
 Se trata de una distribución de Linux de código abierto que nació como un fork de Mandriva Linux y que al igual que su antecesora, KDE es su entorno principal y más utilizado aunque los usuarios finales puede elegir entre otros como GNOME, XFCE, Cinnamon, LXDE, etc. Aunque cuenta con su propio instalador, es bastante sencillo y fácil de manejar por cualquier persona.  
    
 # ¿Qué es Unix, en que se diferencian Unix y Linux?
-* Unix (registrado oficialmente como UNIX®) es un sistema operativo portable, multitarea y multiusuario; desarrollado en 1969 por un grupo de empleados de los laboratorios Bell de AT&T.
+* Unix es un sistema operativo portable, multitarea y multiusuario; desarrollado en 1969 por un grupo de empleados de los laboratorios Bell de AT&T.
   
 **Estas son las principales diferencias:**
 
