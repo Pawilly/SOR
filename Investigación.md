@@ -30,11 +30,11 @@ Aprovechamos para hablar de las novedades de Linux Mint 20, entre las que destac
   
  4. **MX Linux 19.2**
    
-Es una de las distros preferidas por muchos usuarios puesto que mezcla un escritorio elegante y muy manejable con una configuración simple. Además, MX Linux es estable y ofrece un gran rendimiento con un entorno de escritorio XFCE que incluso para los usuarios noveles resulta fácil de configurar y personalizar.  
+En cuanto a las novedades principales de los componentes del sistema, podremos encontrar las versiones del Kernel de Linux 4.19 y la pila de gráficos Mesa 18.3.6, el AHS (Hardware Soporte Avanzado) de montaje para sistemas de 64 bits propuesto incluyendo el kernel 5.6, la version 20.0.7 Mesa, y las nuevas versiones de los controladores gráficos.  
   
  5. **Mageia 7.1**
    
-Se trata de una distribución de Linux de código abierto que nació como un fork de Mandriva Linux y que al igual que su antecesora, KDE es su entorno principal y más utilizado aunque los usuarios finales puede elegir entre otros como GNOME, XFCE, Cinnamon, LXDE, etc. Aunque cuenta con su propio instalador, es bastante sencillo y fácil de manejar por cualquier persona.  
+Algunas de las principales mejoras incluyen un mejor soporte para ARM, todos los paquetes han sido construidos para Aarch64 y ARM v7, se ha completado la despedida de Python 2 y se soporta hardware muy reciente. Se han realizado muchas mejorías al instalador, ahora tiene un mejor soporte para F2FS y Nilfs2. Tanto el medio clásico como el Live utilizan la compresión ZStd, esto proporcionara tiempos de carga e instalación más rápidos.  
    
 ## ¿Qué es Unix, en que se diferencian Unix y Linux?
 * Unix es un sistema operativo portable, multitarea y multiusuario; desarrollado en 1969 por un grupo de empleados de los laboratorios Bell de AT&T.
