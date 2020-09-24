@@ -22,7 +22,7 @@ Quizá, **la novedad más destacada** que llega junto a Debian 10.5 Buster es qu
   
  2. **Ubuntu 20.04**
    
-Es otra de las más elegidas cuando se trata de instalar una distribución de Linux en cualquier equipo. Y es que su sencillo proceso de instalación hace que podamos tener Ubuntu en nuestro equipo en un abrir y cerrar de ojos. Cuenta con una tienda de aplicaciones que permite la instalación y actualización de software desde la propia interfaz gráfica, lo que simplifica su uso. La comunidad detrás de Ubuntu es otro de los puntos a favor de esta distribución. 
+Las novedades más destacables en la nueva entrega de Ubuntu són: las mejoras de rendimiento, el soporte de gráficas NVIDIA, el nuevo modo oscuro y la nueva aplicación para gestionar las extensiones.
   
  3. **Linux Mint 20**
    
