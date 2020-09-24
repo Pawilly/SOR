@@ -17,7 +17,8 @@ obra es distribuida, modificada o ampliada._
 **Las mas usuales són:**
  1. **Debian 10.5**
    
-Es una de las distribuciones de Linux más antigua y popular al mismo tiempo. Para la gran mayoría se trata de la distro más estable, aunque hay otros aspectos a destacar como son los repositorios, gestores de paquetes y la comunidad detrás de Debian. 
+Entre las novedades de la nueva versión 10.5 se incluyen algunas de seguridad, pero también han aprovechado el momento para actualizar todo tipo de paquetes y corregir errores.
+Quizá, **la novedad más destacada** que llega junto a Debian 10.5 Buster es que **corrige varias vulnerabilidades encontradas en GRUB2**, lo que se conoce como la «BootHole» de GRUB2 UEFI SecureBoot.
   
  2. **Ubuntu 20.04**
    
