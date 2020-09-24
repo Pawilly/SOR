@@ -8,7 +8,7 @@ es libre, y protegerlo (mediante una práctica conocida como copyleft) de intent
 obra es distribuida, modificada o ampliada._
 
  # Diferencia entre software libre y comercial.
- * La principal diferencia es que el software libre esta dado para todos los usuarios gratuitamente, también los usuarios tienen la libertad de ejecutar, copiar, distribuir, estudiar, modificar y mejorar el software. En cambio con el software comercial se tiene que pagar por obtener el servicio, y no suele tener tanta libertad de hacer tantas cosas como en el software libre.
+ * La principal diferencia es que el software libre esta dado para todos los usuarios gratuitamente, también los usuarios tienen la libertad de ejecutar, copiar, distribuir, estudiar, modificar y mejorar el software. En cambio con el software comercial se tiene que pagar por obtener el servicio, y no suele tener tanta libertad para hacer tantas cosas como en el software libre.
   
 # Distribuciones Linux
 * Una distribución GNU/Linux (coloquialmente llamada distro) es una distribución de software basada en el núcleo Linux que incluye determinados paquetes de software para satisfacer las necesidades de un grupo específico de usuarios, dando así origen a ediciones domésticas, empresariales y para servidores.  
